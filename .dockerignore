@@ -1,0 +1,4 @@
+# Docker copy ignore patterns
+.git/
+settings.js.*
+
